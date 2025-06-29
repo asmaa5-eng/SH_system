@@ -1,0 +1,16 @@
+﻿  MyMenu.cpp
+C:\Users\DT\Downloads\my_github\HS_GUI\Project8\Project8\loginform.h(387,21): warning C4244: 'initializing': conversion from 'wchar_t' to 'char', possible loss of data
+  (compiling source file 'MyMenu.cpp')
+  
+  homepatient.cpp
+  loginform.cpp
+C:\Users\DT\Downloads\my_github\HS_GUI\Project8\Project8\loginform.h(387,21): warning C4244: 'initializing': conversion from 'wchar_t' to 'char', possible loss of data
+  (compiling source file 'loginform.cpp')
+  
+  regstration.cpp
+C:\Users\DT\Downloads\my_github\HS_GUI\Project8\Project8\loginform.h(387,21): warning C4244: 'initializing': conversion from 'wchar_t' to 'char', possible loss of data
+  (compiling source file 'regstration.cpp')
+  
+  Generating Code...
+  dochome.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project8.vcxproj -> C:\Users\DT\Downloads\my_github\HS_GUI\Project8\x64\Debug\Project8.exe

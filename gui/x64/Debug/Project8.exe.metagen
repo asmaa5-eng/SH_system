@@ -1,0 +1,57 @@
+  Project8.dochome.resources - Embedded, ContainedInManifestFile, 
+  Project8.homepatient.resources - Embedded, ContainedInManifestFile, 
+  Project8.loginform.resources - Embedded, ContainedInManifestFile, 
+  Project8.MyForm.resources - Embedded, ContainedInManifestFile, 
+  Project8.Patient.resources - Embedded, ContainedInManifestFile, 
+  Project8.regstration.resources - Embedded, ContainedInManifestFile, 
+  Project8.MyMenu.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly Project8, Version=0.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class Project8.Doctor: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(System.String, System.String, System.String, System.String, System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String id : Public
+    System.String name : Public
+    System.String username : Public
+    System.String password : Public
+    System.String specialication : Public
+Class Project8.dochome: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Project8.Doctor): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Project8.Patient: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(System.String, System.String, System.String, System.String, Int32, SByte): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String id : Public
+    System.String name : Public
+    System.String username : Public
+    System.String password : Public
+    Int32 age : Public
+    Char gender : Public
+Class Project8.homepatient: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Project8.Patient): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Project8.loginform: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class yarbY4ta8al.MyForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Project8.regstration: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Project8.MyMenu: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName

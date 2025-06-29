@@ -1,0 +1,53 @@
+C:\Users\DT\Desktop\MINE\Project8\Project8\x64\Debug\Project8.vcxproj.AssemblyReference.cache
+C:\Users\DT\Desktop\MINE\Project8\Project8\x64\Debug\Project8.dochome.resources
+C:\Users\DT\Desktop\MINE\Project8\Project8\x64\Debug\Project8.homepatient.resources
+C:\Users\DT\Desktop\MINE\Project8\Project8\x64\Debug\Project8.loginform.resources
+C:\Users\DT\Desktop\MINE\Project8\Project8\x64\Debug\Project8.Patient.resources
+C:\Users\DT\Desktop\MINE\Project8\Project8\x64\Debug\Project8.regstration.resources
+C:\Users\DT\Desktop\MINE\Project8\Project8\x64\Debug\Project8.MyMenu.resources
+C:\Users\DT\Desktop\MINE\Project8\Project8\x64\Debug\Project8.vcxproj.GenerateResource.cache
+C:\Users\DT\Desktop\programming\MINE\Project8\Project8\x64\Debug\Project8.vcxproj.AssemblyReference.cache
+C:\Users\DT\Desktop\programming\MINE\Project8\Project8\x64\Debug\Project8.dochome.resources
+C:\Users\DT\Desktop\programming\MINE\Project8\Project8\x64\Debug\Project8.homepatient.resources
+C:\Users\DT\Desktop\programming\MINE\Project8\Project8\x64\Debug\Project8.loginform.resources
+C:\Users\DT\Desktop\programming\MINE\Project8\Project8\x64\Debug\Project8.Patient.resources
+C:\Users\DT\Desktop\programming\MINE\Project8\Project8\x64\Debug\Project8.regstration.resources
+C:\Users\DT\Desktop\programming\MINE\Project8\Project8\x64\Debug\Project8.MyMenu.resources
+C:\Users\DT\Desktop\programming\MINE\Project8\Project8\x64\Debug\Project8.vcxproj.GenerateResource.cache
+C:\Users\DT\Desktop\programming\MINE\Project8\Project8\x64\Debug\Project8.MyForm.resources
+C:\Users\DT\Downloads\my_github\my-gui\Project8\Project8\x64\Debug\Project8.vcxproj.AssemblyReference.cache
+C:\Users\DT\Downloads\my_github\my-gui\Project8\Project8\x64\Debug\Project8.dochome.resources
+C:\Users\DT\Downloads\my_github\my-gui\Project8\Project8\x64\Debug\Project8.homepatient.resources
+C:\Users\DT\Downloads\my_github\my-gui\Project8\Project8\x64\Debug\Project8.loginform.resources
+C:\Users\DT\Downloads\my_github\my-gui\Project8\Project8\x64\Debug\Project8.MyForm.resources
+C:\Users\DT\Downloads\my_github\my-gui\Project8\Project8\x64\Debug\Project8.Patient.resources
+C:\Users\DT\Downloads\my_github\my-gui\Project8\Project8\x64\Debug\Project8.regstration.resources
+C:\Users\DT\Downloads\my_github\my-gui\Project8\Project8\x64\Debug\Project8.MyMenu.resources
+C:\Users\DT\Downloads\my_github\my-gui\Project8\Project8\x64\Debug\Project8.vcxproj.GenerateResource.cache
+C:\Users\DT\Downloads\my_github\my-gui - Copy\Project8\Project8\x64\Debug\Project8.vcxproj.AssemblyReference.cache
+C:\Users\DT\Downloads\my_github\my-gui - Copy\Project8\Project8\x64\Debug\Project8.dochome.resources
+C:\Users\DT\Downloads\my_github\my-gui - Copy\Project8\Project8\x64\Debug\Project8.homepatient.resources
+C:\Users\DT\Downloads\my_github\my-gui - Copy\Project8\Project8\x64\Debug\Project8.loginform.resources
+C:\Users\DT\Downloads\my_github\my-gui - Copy\Project8\Project8\x64\Debug\Project8.MyForm.resources
+C:\Users\DT\Downloads\my_github\my-gui - Copy\Project8\Project8\x64\Debug\Project8.Patient.resources
+C:\Users\DT\Downloads\my_github\my-gui - Copy\Project8\Project8\x64\Debug\Project8.regstration.resources
+C:\Users\DT\Downloads\my_github\my-gui - Copy\Project8\Project8\x64\Debug\Project8.MyMenu.resources
+C:\Users\DT\Downloads\my_github\my-gui - Copy\Project8\Project8\x64\Debug\Project8.vcxproj.GenerateResource.cache
+C:\Users\DT\Downloads\my_github\my-gui - Copy - Copy\Project8\Project8\x64\Debug\Project8.vcxproj.AssemblyReference.cache
+C:\Users\DT\Downloads\my_github\my-gui - Copy - Copy\Project8\Project8\x64\Debug\Project8.dochome.resources
+C:\Users\DT\Downloads\my_github\my-gui - Copy - Copy\Project8\Project8\x64\Debug\Project8.homepatient.resources
+C:\Users\DT\Downloads\my_github\my-gui - Copy - Copy\Project8\Project8\x64\Debug\Project8.loginform.resources
+C:\Users\DT\Downloads\my_github\my-gui - Copy - Copy\Project8\Project8\x64\Debug\Project8.MyForm.resources
+C:\Users\DT\Downloads\my_github\my-gui - Copy - Copy\Project8\Project8\x64\Debug\Project8.Patient.resources
+C:\Users\DT\Downloads\my_github\my-gui - Copy - Copy\Project8\Project8\x64\Debug\Project8.regstration.resources
+C:\Users\DT\Downloads\my_github\my-gui - Copy - Copy\Project8\Project8\x64\Debug\Project8.MyMenu.resources
+C:\Users\DT\Downloads\my_github\my-gui - Copy - Copy\Project8\Project8\x64\Debug\Project8.vcxproj.GenerateResource.cache
+C:\Users\DT\Downloads\my_github\HS_GUI\Project8\Project8\x64\Debug\Project8.vcxproj.AssemblyReference.cache
+C:\Users\DT\Downloads\my_github\HS_GUI\Project8\Project8\x64\Debug\Project8.dochome.resources
+C:\Users\DT\Downloads\my_github\HS_GUI\Project8\Project8\x64\Debug\Project8.homepatient.resources
+C:\Users\DT\Downloads\my_github\HS_GUI\Project8\Project8\x64\Debug\Project8.loginform.resources
+C:\Users\DT\Downloads\my_github\HS_GUI\Project8\Project8\x64\Debug\Project8.MyForm.resources
+C:\Users\DT\Downloads\my_github\HS_GUI\Project8\Project8\x64\Debug\Project8.Patient.resources
+C:\Users\DT\Downloads\my_github\HS_GUI\Project8\Project8\x64\Debug\Project8.regstration.resources
+C:\Users\DT\Downloads\my_github\HS_GUI\Project8\Project8\x64\Debug\Project8.MyMenu.resources
+C:\Users\DT\Downloads\my_github\HS_GUI\Project8\Project8\x64\Debug\Project8.vcxproj.GenerateResource.cache
